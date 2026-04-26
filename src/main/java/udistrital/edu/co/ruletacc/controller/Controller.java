@@ -14,6 +14,7 @@ import java.util.Random;
  * Lista Circular y comunicarse con la vista para interactuar con el usuario.
  *
  * @author Andres Ramos - 20242020005
+ * @author Sebastián Suárez - 20241020141
  */
 public class Controller {
     VistaConsola vista = new VistaConsola();
