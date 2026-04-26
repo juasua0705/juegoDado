@@ -10,6 +10,7 @@ package udistrital.edu.co.ruletacc.model;
  * Contiene un dato entero y una referencia al siguiente nodo en la lista.
  *
  * @author Andres Ramos - 20242020005
+ * @author Sebastián Suárez - 20241020141
  */
 public class Nodo {
 
