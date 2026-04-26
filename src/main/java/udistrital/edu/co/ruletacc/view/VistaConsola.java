@@ -11,6 +11,7 @@ import java.util.Scanner;
  * separando así la interfaz de usuario de la lógica del negocio.
  *
  * @author Andres Ramos - 20242020005
+ * @author Sebastián Suárez - 20241020141
  */
 public class VistaConsola {
     private Scanner sc;
