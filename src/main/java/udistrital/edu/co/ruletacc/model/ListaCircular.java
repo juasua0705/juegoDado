@@ -10,6 +10,7 @@ package udistrital.edu.co.ruletacc.model;
  * y el control de turnos, diseñada específicamente para el flujo del juego tipo ruleta.
  *
  * @author Andres Ramos - 20242020005
+ * @author Sebastián Suárez - 20241020141
  */
 public class ListaCircular {
     private Nodo cabeza = null;
